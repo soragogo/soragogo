@@ -36,7 +36,7 @@ I have hands-on experience in deploying and managing resources in **AWS**, inclu
 - **Metabase** – Dashboard creation and BI analysis  
 - **Git / Docker** – Everyday development and containerization tools
 
-### 🧩 Other Skills
+## 🧩 Other Skills
 - **寿司打（高級コース）50皿**  
 - **TOEFL iBT 104**
 
@@ -45,3 +45,4 @@ I am currently:
 - Enhancing my knowledge of cloud-native technologies.
 - Building scalable web applications using my favorite frameworks.
 - Diving deeper into DevOps practices with Terraform and AWS.
+
