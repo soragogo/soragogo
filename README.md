@@ -27,6 +27,12 @@ I have hands-on experience in deploying and managing resources in **AWS**, inclu
 - **ECS (Containers)**
 - **S3**
 
+### Other Tools & Technologies
+- **dbt** – For transformation pipelines and analytics engineering
+- **digdag** – Workflow orchestration for data pipelines
+- **Metabase** – Dashboard creation and BI analysis
+- **Git / Docker** – Everyday development and containerization tools
+
 ### Infrastructure as Code
 - **Terraform**: Proficient in writing and managing infrastructure as code to ensure scalable and reliable cloud deployments.
 
@@ -35,4 +41,5 @@ I am currently:
 - Enhancing my knowledge of cloud-native technologies.
 - Building scalable web applications using my favorite frameworks.
 - Diving deeper into DevOps practices with Terraform and AWS.
+
 
